@@ -1,4 +1,5 @@
 FileVersion = 1
+Dependencies = {corlib = "*", OpenGL = "*", SDL2 = "*"}
 
 [Project]
 Name = "OpenGLTest"
