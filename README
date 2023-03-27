@@ -1,0 +1,5 @@
+# OpenGL-Beef
+This repository contains low-level [Beef](https://www.beeflang.org) bindings for OpenGL-Beef.
+These binding were generated using [OpenGL-Beef-Generator](https://github.com/jayrulez/OpenGL-Beef-Generator).
+
+*If you are using OpenGL-Beef and would like to be listed here then submit the change in a PR or open an issue.*
